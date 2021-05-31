@@ -4,7 +4,9 @@
 ## when do we know that you are growth mindset?
 ### the best way to know if u are growth mindset is when you face the issues or troubles
 ## give me advice how can i be growth mindset
-### - beleive in your self 
-### - be patient 
-### - ask a professtional someone to help you 
-### -
+- beleive in your self 
+- be patient 
+- ask a professional someone to help you 
+- now you have to take you time to deal with your issue 
+- finally you should konw that u will not lose any thing u will gain 
+
