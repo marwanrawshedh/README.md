@@ -1,9 +1,11 @@
 ## name :marwan salem al rawashdeh 
 ## age :22 yers old 
 ## specialization :civil engineering
+## university : balqa applied university (BAU)
 
-|topic            |  link             |
-|- |- |
-| growth mindset | [growth mindset](https://marwanrawshedh.github.io/readingnotes/growth%20mindset)|
-| markdown       | [markdown](https://marwanrawshedh.github.io/readingnotes/markdown)      |
-| git            | [git](https://marwanrawshedh.github.io/readingnotes/git)  
+|  NO  |topic            |  link             |
+|  -  |- |- |
+|  1. | growth mindset | [growth mindset](https://marwanrawshedh.github.io/readingnotes/growth%20mindset)|
+| 2.  | markdown       | [markdown](https://marwanrawshedh.github.io/readingnotes/markdown)      |
+| 3.  | git            | [git](https://marwanrawshedh.github.io/readingnotes/git)  
+| 4.  | HTML | https://marwanrawshedh.github.io/readingnotes/HTML |
