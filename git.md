@@ -6,3 +6,4 @@
 - to back for the previous file =  `cd .. `
 - for upload the work to hithub = ` git push origin main `
 - for add comment =`  git commit -m"comment" `
+- for adding a new file = `touch "name of file" `
