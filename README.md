@@ -1,6 +1,6 @@
 ## name :marwan salem al rawashdeh 
 ## age :22 yers old 
-##  specilization :civil engineering
+## specialization :civil engineering
 
 |topic            |  link             |
 |- |- |
