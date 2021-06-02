@@ -9,3 +9,5 @@
 | 2.  | markdown       | [markdown](https://marwanrawshedh.github.io/readingnotes/markdown)      |
 | 3.  | git            | [git](https://marwanrawshedh.github.io/readingnotes/git)  
 | 4.  | HTML | [HTML](https://marwanrawshedh.github.io/readingnotes/HTML) |
+| 5. | javascript | [javascript](https://marwanrawshedh.github.io/readingnotes/js) |
+| 6. |   |  []() |
