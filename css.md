@@ -1,8 +1,6 @@
- ## What is ***CSS*** ?
- > ***css is (Cascading Style Sheets) allows you to create great-looking web pages*** .
-
-
- ## how can we link css with HTML ?
+## What is ***CSS*** ?
+> ***css is (Cascading Style Sheets) allows you to create great-looking web pages*** .
+## how can we link css with HTML ?
 ### There are three ways to link css with HTML :
 
 - **External CSS**
@@ -25,9 +23,8 @@ by adding  the `<style> element` inside the element in body section
 #### and a lot of  things
 
 ## wite example of css .
- ### we can color the header bachground  by wite 
- ` header{ 
-  background-color: rgb(32, 26, 26);color: rgb(226, 226, 236)}`
+### we can color the header bachground  by wite 
+` header{background-color: rgb(32, 26, 26);color: rgb(226, 226, 236)}`
  
 
 
