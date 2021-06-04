@@ -24,7 +24,7 @@ by adding  the `<style> element` inside the element in body section
 
 ## wite example of css .
 ### we can color the header bachground  by wite 
-` header{background-color: rgb(32, 26, 26);color: rgb(226, 226, 236)}`
+`header{background-color: rgb(32, 26, 26);color: rgb(226, 226, 236)}`
  
 
 
