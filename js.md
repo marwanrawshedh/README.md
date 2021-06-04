@@ -6,11 +6,11 @@
 
 ## write some steps for making any effect by javascript .
 ### we can make pop up box by this syntax
- * alert("are you sure to continue")
+* alert("are you sure to continue")
  
- ![are you sure to continue](are you.PNG)
+![are you sure to continue](are you.PNG)
 
 
- ## example of js syntaxes by my hand
- ![example](js.PNG)
+## example of js syntaxes by my hand
+![example](js.PNG)
 
