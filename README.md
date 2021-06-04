@@ -11,4 +11,4 @@
 | 4.  | HTML | [HTML](https://marwanrawshedh.github.io/readingnotes/HTML) |
 | 5. | javascript | [javascript](https://marwanrawshedh.github.io/readingnotes/js) |
 |  7. | loop |  [loop](https://marwanrawshedh.github.io/readingnotes/loop ) |
-| 8. | css |[css ]( )  |
+| 8. | css |[css ]( https://marwanrawshedh.github.io/readingnotes/css)  |
