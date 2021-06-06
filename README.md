@@ -5,10 +5,11 @@
 
 |  NO  |topic            |  link             |
 |  -  |- |- |
-|  1. | growth mindset | [growth mindset](https://marwanrawshedh.github.io/readingnotes/growth%20mindset)|
-| 2.  | markdown       | [markdown](https://marwanrawshedh.github.io/readingnotes/markdown)      |
-| 3.  | git            | [git](https://marwanrawshedh.github.io/readingnotes/git)  
+|  1. | Growth mindset | [growth mindset](https://marwanrawshedh.github.io/readingnotes/growth%20mindset)|
+| 2.  | Markdown       | [markdown](https://marwanrawshedh.github.io/readingnotes/markdown)      |
+| 3.  | Git            | [git](https://marwanrawshedh.github.io/readingnotes/git)  
 | 4.  | HTML | [HTML](https://marwanrawshedh.github.io/readingnotes/HTML) |
-| 5. | javascript | [javascript](https://marwanrawshedh.github.io/readingnotes/js) |
-|  7. | loop |  [loop](https://marwanrawshedh.github.io/readingnotes/loop ) |
-| 8. | css |[css ]( https://marwanrawshedh.github.io/readingnotes/css)  |
+| 5. | Javascript | [javascript](https://marwanrawshedh.github.io/readingnotes/js) |
+|  7. | Loop |  [loop](https://marwanrawshedh.github.io/readingnotes/loop ) |
+| 8. | Css |[css ]( https://marwanrawshedh.github.io/readingnotes/css)  |
+| 9. | Function   | [Function]() |
