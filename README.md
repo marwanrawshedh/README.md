@@ -29,3 +29,5 @@
 | 8. | |  |
 | 9. |  | |
 | 10. | | |
+
+[Introductory HTML and JavaScript](https://marwanrawshedh.github.io/readingnotes/class-01)
