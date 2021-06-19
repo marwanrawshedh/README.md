@@ -3,6 +3,7 @@
 ## specialization :civil engineering
 ## university : balqa applied university (BAU)
 ## Code 102 Reading Notes
+
 |  NO  |topic            |  link             |
 |  -  |- |- |
 |  1. | Growth mindset | [growth mindset](https://marwanrawshedh.github.io/readingnotes/growth%20mindset)|
