@@ -19,7 +19,7 @@
 
 |  NO  |topic            |  link             |
 |  -  | - | - |
-| 1. | |  |
+| 1. | Introductory HTML and JavaScript | [Introductory HTML and JavaScript](https://marwanrawshedh.github.io/readingnotes/class-01) |
 | 2. | |  |
 | 3. | |  |
 | 4. | |  |
@@ -30,4 +30,3 @@
 | 9. |  | |
 | 10. | | |
 
-[Introductory HTML and JavaScript](https://marwanrawshedh.github.io/readingnotes/class-01)
