@@ -20,7 +20,7 @@
 |  NO  |topic            |  link             |
 |  -  | - | - |
 | 1. | Introductory HTML and JavaScript | [Introductory HTML and JavaScript](https://marwanrawshedh.github.io/readingnotes/class-01) |
-| 2. | HTML Lists,JS Control Flow | [HTML Lists,JS Control Flow] (https://marwanrawshedh.github.io/readingnotes/read-201-03) |
+| 2. | HTML Lists,JS Control Flow | [ HTML Lists,JS Control Flow](https://marwanrawshedh.github.io/readingnotes/read-201-03) |
 | 3. | |  |
 | 4. | |  |
 | 5. | |  |
