@@ -22,7 +22,7 @@
 | 1. | Introductory HTML and JavaScript | [Introductory HTML and JavaScript](https://marwanrawshedh.github.io/readingnotes/class-01) |
 | 2. | HTML Lists,JS Control Flow | [ HTML Lists,JS Control Flow](https://marwanrawshedh.github.io/readingnotes/read-201-03) |
 | 3. | HTML Links,CSS Layout | [HTML Links,CSS Layout](https://marwanrawshedh.github.io/readingnotes/read-201-04) |
-| 4. | |  |
+| 4. |Images, Color, Text | [Images, Color, Text](https://marwanrawshedh.github.io/readingnotes/read-201-05) |
 | 5. | |  |
 | 6. | |   |
 | 7. | |  |
