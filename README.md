@@ -25,7 +25,7 @@
 | 4. |Images, Color, Text | [Images, Color, Text](https://marwanrawshedh.github.io/readingnotes/read-201-05) |
 | 5. |  Objects, and the DOM | [ Objects, and the DOM](https://marwanrawshedh.github.io/readingnotes/read-201-06) |
 | 6. | Object-Oriented Programming, HTML Tables | [ HTML Tables](https://marwanrawshedh.github.io/readingnotes/read-201-07)  |
-| 7. | |  |
+| 7. | Debugging| [Debugging](https://marwanrawshedh.github.io/readingnotes/read-201-10) |
 | 8. | |  |
 | 9. |  | |
 | 10. | | |
