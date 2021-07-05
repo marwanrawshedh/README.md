@@ -27,6 +27,6 @@
 | 6. | Object-Oriented Programming, HTML Tables | [ HTML Tables](https://marwanrawshedh.github.io/readingnotes/read-201-07)  |
 | 7. | Debugging| [Debugging](https://marwanrawshedh.github.io/readingnotes/read-201-10) |
 | 8. | Audio, Video, Images | [Audio, Video, Images](https://marwanrawshedh.github.io/readingnotes/read-201-11)  |
-| 9. |Chart.js, Canvas  | [Chart.js, Canvas](https://marwanrawshedh.github.io/readingnotes/read-201-12) |
-| 10. | | |
+| 9. | Chart.js, Canvas  | [Chart.js, Canvas](https://marwanrawshedh.github.io/readingnotes/read-201-12) |
+| 10.  |Local Storage | [Local Storage](https://marwanrawshedh.github.io/readingnotes/read-201-13) |
 
