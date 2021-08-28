@@ -1,8 +1,11 @@
+# reading notes
+# This site includes all the topics we talked about in 101-102-201 as a summary.
 ## name :marwan salem al rawashdeh 
 ## age :22 yers old 
 ## specialization :civil engineering
 ## university : balqa applied university (BAU)
-## Code 102 Reading Notes
+
+## Code 102 - Intro to Software Development
 
 |  NO  |topic            |  link             |
 |  -  |- |- |
@@ -15,7 +18,7 @@
 | 8. | Css |[css ]( https://marwanrawshedh.github.io/readingnotes/css)  |
 | 9. | Function   | [Function](https://marwanrawshedh.github.io/readingnotes/function) |
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 |  NO  |topic            |  link             |
 |  -  | - | - |
@@ -30,7 +33,12 @@
 | 9. | Chart.js, Canvas  | [Chart.js, Canvas](https://marwanrawshedh.github.io/readingnotes/read-201-12) |
 | 10.  |Local Storage | [Local Storage](https://marwanrawshedh.github.io/readingnotes/read-201-13) |
 | 11. |  CSS Transforms, Transitions, and Animations |[ CSS Transforms, Transitions, and Animations](https://marwanrawshedh.github.io/readingnotes/read-201-14a) |
-| 12. |  |  |
-| 13.|  |  |
-| 14. |  |  |
+
+
+## Code 301 - Intermediate Software Development
+|  NO  |topic            |  link             |
+|  -  | - | - |
+| 1. |  |  |
+| 3.|  |  |
+| 4. |  |  |
 
