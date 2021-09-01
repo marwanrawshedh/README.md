@@ -43,7 +43,7 @@
 | 2. | State and Props | [State and Props](https://marwanrawshedh.github.io/readingnotes/read-301-02)|
 | 3. | Passing Functions as Props | [Passing Functions as Props](https://marwanrawshedh.github.io/readingnotes/read-301-03) |
 | 4. | React and Forms | [React and Forms](https://marwanrawshedh.github.io/readingnotes/read-301-04) |
-| 5. |  |  |
+| 5. | Putting it all together | [Putting it all together](https://marwanrawshedh.github.io/readingnotes/read-301-05) |
 | 6. |  |  |
 | 7. |  |  |
 
