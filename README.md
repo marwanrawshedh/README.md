@@ -46,4 +46,4 @@
 | 5. | Putting it all together | [Putting it all together](https://marwanrawshedh.github.io/readingnotes/read-301-05) |
 | 6. | NODE.JS | [NODE.JS](https://marwanrawshedh.github.io/readingnotes/read-301-06) |
 | 7. | REST | [REST](https://marwanrawshedh.github.io/readingnotes/read-301-07) |
-
+| 8. | APIs | [APIs](https://marwanrawshedh.github.io/readingnotes/read-301-08) |
