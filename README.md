@@ -48,5 +48,5 @@
 | 7. | REST | [REST](https://marwanrawshedh.github.io/readingnotes/read-301-07) |
 | 8. | APIs | [APIs](https://marwanrawshedh.github.io/readingnotes/read-301-08) |
 | 9. | FUNCTIONAL PROGRAMMING | [FUNCTIONAL PROGRAMMING](https://marwanrawshedh.github.io/readingnotes/read-301-09) |
-| 10. | APIs | [APIs](https://marwanrawshedh.github.io/readingnotes/read-301-10) |
-| 77. | APIs | [APIs](https://marwanrawshedh.github.io/readingnotes/read-301-11) |
+| 10. | Call Stack | [Call Stack](https://marwanrawshedh.github.io/readingnotes/read-301-10) |
+| 11. |  | [](https://marwanrawshedh.github.io/readingnotes/read-301-11) |
