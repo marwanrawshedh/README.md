@@ -51,5 +51,5 @@
 | 10. | Call Stack | [Call Stack](https://marwanrawshedh.github.io/readingnotes/read-301-10) |
 | 11. | Mongo and Mongoose | [Mongo and Mongoose](https://marwanrawshedh.github.io/readingnotes/read-301-11) |
 | 11. | Authentication | [Authentication](https://marwanrawshedh.github.io/readingnotes/read-301-14) |
-| 11. |  | [](https://marwanrawshedh.github.io/readingnotes/read-301-11) |
+| 11. | CRUD | [CRUD](https://marwanrawshedh.github.io/readingnotes/read-301-12) |
 | 11. |  | [](https://marwanrawshedh.github.io/readingnotes/read-301-11) |
