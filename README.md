@@ -52,4 +52,15 @@
 | 11. | Mongo and Mongoose | [Mongo and Mongoose](https://marwanrawshedh.github.io/readingnotes/read-301-11) |
 | 11. | Authentication | [Authentication](https://marwanrawshedh.github.io/readingnotes/read-301-14) |
 | 11. | CRUD | [CRUD](https://marwanrawshedh.github.io/readingnotes/read-301-12) |
-| 11. |  | [](https://marwanrawshedh.github.io/readingnotes/read-301-11) |
+| 11. | Diversity & Inclusion in the Tech Industry | [Diversity & Inclusion in the Tech Industry](https://marwanrawshedh.github.io/readingnotes/read-301-13) |
+
+
+## Code 401 - Advanced Software Development
+|  NO  |topic            |  link             |
+|  -  | - | - |
+| 1.  |   |   |
+| 2.  |   |   |
+| 3.  |   |   |
+| 4.  |   |   |
+| 5.  |   |   |
+| 6.  |   |   |
