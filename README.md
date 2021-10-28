@@ -59,7 +59,7 @@
 
 |  NO  |topic            |  link             |
 |  -  | - | - |
-| 1.  |   |   |
+| 1.  | Get Ready for 401  | [Get Ready for 401](https://marwanrawshedh.github.io/readingnotes/read-401-01)  |
 | 2.  |   |   |
 | 3.  |   |   |
 | 4.  |   |   |
