@@ -60,7 +60,7 @@
 |  NO  |topic            |  link             |
 |  -  | - | - |
 | 1.  | Get Ready for 401  | [Get Ready for 401](https://marwanrawshedh.github.io/readingnotes/read-401-01)  |
-| 2.  |   |   |
+| 2.  |  Review, Research, and Discussion | [Review, Research, and Discussion](https://marwanrawshedh.github.io/readingnotes/read-401-02)  |
 | 3.  |   |   |
 | 4.  |   |   |
 | 5.  |   |   |
