@@ -62,6 +62,6 @@
 | 1.  | Get Ready for 401  | [Get Ready for 401](https://marwanrawshedh.github.io/readingnotes/read-401-01)  |
 | 2.  |  Review, Research, and Discussion | [Review, Research, and Discussion](https://marwanrawshedh.github.io/readingnotes/read-401-02)  |
 | 3.  | Express  | [Express](https://marwanrawshedh.github.io/readingnotes/read-401-03)  |
-| 4.  |   |   |
+| 4.  | Express REST API  | [Express REST API](https://marwanrawshedh.github.io/readingnotes/read-401-04)  |
 | 5.  |   |   |
 | 6.  |   |   |
