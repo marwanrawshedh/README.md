@@ -63,5 +63,9 @@
 | 2.  |  Review, Research, and Discussion | [Review, Research, and Discussion](https://marwanrawshedh.github.io/readingnotes/read-401-02)  |
 | 3.  | Express  | [Express](https://marwanrawshedh.github.io/readingnotes/read-401-03)  |
 | 4.  | Express REST API  | [Express REST API](https://marwanrawshedh.github.io/readingnotes/read-401-04)  |
-| 5.  |   |   |
+| 5.  | Data Modeling  |  [Data Modeling](https://marwanrawshedh.github.io/readingnotes/read-401-05) |
 | 6.  |   |   |
+| 7.  |   |   |
+| 8.  |   |   |
+| 9.  |   |   |
+| 10.  |   |   |
