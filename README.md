@@ -66,6 +66,6 @@
 | 5.  | Data Modeling  |  [Data Modeling](https://marwanrawshedh.github.io/readingnotes/read-401-05) |
 | 6.  | Linked Lists  |  [Linked Lists](https://marwanrawshedh.github.io/readingnotes/read-401-06)  |
 | 7.  |   |   |
-| 8.  |   | [Linked Lists](https://marwanrawshedh.github.io/readingnotes/read-401-06)  |
+| 8.  |  Bearer Authorization | [Bearer Authorization](https://marwanrawshedh.github.io/readingnotes/read-401-08)  |
 | 9.  |   |   |
 | 10.  |   |   |
