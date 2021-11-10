@@ -67,5 +67,6 @@
 | 6.  | Linked Lists  |  [Linked Lists](https://marwanrawshedh.github.io/readingnotes/read-401-06)  |
 | 7.  |   |   |
 | 8.  |  Bearer Authorization | [Bearer Authorization](https://marwanrawshedh.github.io/readingnotes/read-401-08)  |
-| 9.  | Access Control (ACL)  | [ Access Control (ACL)](https://marwanrawshedh.github.io/readingnotes/read-401-09)  |
-| 10.  |  Authorization/Authentication  | [ Authorization/Authentication](https://marwanrawshedh.github.io/readingnotes/read-401-10)  |
+| 9.  | Access Control (ACL)  | [Access Control (ACL)](https://marwanrawshedh.github.io/readingnotes/read-401-09)  |
+| 10.  |  Authorization/Authentication  | [Authorization/Authentication](https://marwanrawshedh.github.io/readingnotes/read-401-10)  |
+| 11.  | Stacks and Queues  | [Stacks and Queues](https://marwanrawshedh.github.io/readingnotes/read-401-11)  |
