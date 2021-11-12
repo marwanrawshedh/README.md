@@ -65,7 +65,7 @@
 | 4.  | Express REST API  | [Express REST API](https://marwanrawshedh.github.io/readingnotes/read-401-04)  |
 | 5.  | Data Modeling  |  [Data Modeling](https://marwanrawshedh.github.io/readingnotes/read-401-05) |
 | 6.  | Linked Lists  |  [Linked Lists](https://marwanrawshedh.github.io/readingnotes/read-401-06)  |
-| 7.  |   |   |
+| 7.  |  Authentication | [Authentication](https://marwanrawshedh.github.io/readingnotes/read-401-07)  |
 | 8.  |  Bearer Authorization | [Bearer Authorization](https://marwanrawshedh.github.io/readingnotes/read-401-08)  |
 | 9.  | Access Control (ACL)  | [Access Control (ACL)](https://marwanrawshedh.github.io/readingnotes/read-401-09)  |
 | 10.  |  Authorization/Authentication  | [Authorization/Authentication](https://marwanrawshedh.github.io/readingnotes/read-401-10)  |
