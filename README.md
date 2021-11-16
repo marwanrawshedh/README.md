@@ -71,4 +71,5 @@
 | 10.  |  Authorization/Authentication  | [Authorization/Authentication](https://marwanrawshedh.github.io/readingnotes/read-401-10)  |
 | 11.  | Stacks and Queues  | [Stacks and Queues](https://marwanrawshedh.github.io/readingnotes/read-401-11)  |
 | 12.  | Event Driven Applications  | [Event Driven Applications](https://marwanrawshedh.github.io/readingnotes/read-401-12) |
-| 12.  | Socket.io  | [Socket.io](https://marwanrawshedh.github.io/readingnotes/read-401-13) |
+| 13.  | Socket.io  | [Socket.io](https://marwanrawshedh.github.io/readingnotes/read-401-13) |
+| 14.  | Message Queues  | [Message Queues](https://marwanrawshedh.github.io/readingnotes/read-401-13) |
