@@ -72,4 +72,4 @@
 | 11.  | Stacks and Queues  | [Stacks and Queues](https://marwanrawshedh.github.io/readingnotes/read-401-11)  |
 | 12.  | Event Driven Applications  | [Event Driven Applications](https://marwanrawshedh.github.io/readingnotes/read-401-12) |
 | 13.  | Socket.io  | [Socket.io](https://marwanrawshedh.github.io/readingnotes/read-401-13) |
-| 14.  | Message Queues  | [Message Queues](https://marwanrawshedh.github.io/readingnotes/read-401-13) |
+| 14.  | Message Queues  | [Message Queues](https://marwanrawshedh.github.io/readingnotes/read-401-14) |
