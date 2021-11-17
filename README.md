@@ -74,4 +74,4 @@
 | 13.  | Socket.io  | [Socket.io](https://marwanrawshedh.github.io/readingnotes/read-401-13) |
 | 14.  | Message Queues  | [Message Queues](https://marwanrawshedh.github.io/readingnotes/read-401-14) |
 | 15.  | Event Driven Architecture  | [Event Driven Architecture](https://marwanrawshedh.github.io/readingnotes/read-401-15) |
-| 16.  | Message Queues  | [Message Queues](https://marwanrawshedh.github.io/readingnotes/read-401-16) |
+| 16.  | Tree  | [Tree](https://marwanrawshedh.github.io/readingnotes/read-401-16) |
