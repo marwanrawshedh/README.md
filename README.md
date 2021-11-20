@@ -75,3 +75,5 @@
 | 14.  | Message Queues  | [Message Queues](https://marwanrawshedh.github.io/readingnotes/read-401-14) |
 | 15.  | Event Driven Architecture  | [Event Driven Architecture](https://marwanrawshedh.github.io/readingnotes/read-401-15) |
 | 16.  | Tree  | [Tree](https://marwanrawshedh.github.io/readingnotes/read-401-16) |
+| 17.  | AWS: Cloud Servers  | [AWS: Cloud Servers](https://marwanrawshedh.github.io/readingnotes/read-401-17) |
+| 18.  | Tree  | [Tree](https://marwanrawshedh.github.io/readingnotes/read-401-18) |
