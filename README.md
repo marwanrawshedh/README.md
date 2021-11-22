@@ -76,4 +76,4 @@
 | 15.  | Event Driven Architecture  | [Event Driven Architecture](https://marwanrawshedh.github.io/readingnotes/read-401-15) |
 | 16.  | Tree  | [Tree](https://marwanrawshedh.github.io/readingnotes/read-401-16) |
 | 17.  | AWS: Cloud Servers  | [AWS: Cloud Servers](https://marwanrawshedh.github.io/readingnotes/read-401-17) |
-| 18.  | Tree  | [Tree](https://marwanrawshedh.github.io/readingnotes/read-401-18) |
+| 18.  | S3 and Lambda  | [S3 and Lambda](https://marwanrawshedh.github.io/readingnotes/read-401-18) |
