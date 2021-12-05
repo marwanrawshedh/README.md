@@ -79,7 +79,7 @@
 | 18.  | S3 and Lambda  | [S3 and Lambda](https://marwanrawshedh.github.io/readingnotes/read-401-18) |
 | 19.  | AWS: API, Dynamo and Lambda  | [AWS: API, Dynamo and Lambda](https://marwanrawshedh.github.io/readingnotes/read-401-19) |
 | 20.  | AWS: Events  | [AWS: Events](https://marwanrawshedh.github.io/readingnotes/read-401-20) |
-| 21.  |   | [](https://marwanrawshedh.github.io/readingnotes/read-401-21) |
+| 21.  | Component Based UI  | [Component Based UI](https://marwanrawshedh.github.io/readingnotes/read-401-26) |
 | 22.  |   | [](https://marwanrawshedh.github.io/readingnotes/read-401-22) |
 | 23.  |   | [](https://marwanrawshedh.github.io/readingnotes/read-401-23) |
 | 24.  |   | [](https://marwanrawshedh.github.io/readingnotes/read-401-24) |
