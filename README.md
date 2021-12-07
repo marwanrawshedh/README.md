@@ -81,5 +81,5 @@
 | 20.  | AWS: Events  | [AWS: Events](https://marwanrawshedh.github.io/readingnotes/read-401-20) |
 | 21.  | Component Based UI  | [Component Based UI](https://marwanrawshedh.github.io/readingnotes/read-401-26) |
 | 22.  |  useState() Hook | [useState() Hook](https://marwanrawshedh.github.io/readingnotes/read-401-27) |
-| 23.  |   | [](https://marwanrawshedh.github.io/readingnotes/read-401-23) |
+| 23.  |  Component Lifecycle / useEffect() Hook | [Component Lifecycle / useEffect() Hook](https://marwanrawshedh.github.io/readingnotes/read-401-28) |
 | 24.  |   | [](https://marwanrawshedh.github.io/readingnotes/read-401-24) |
