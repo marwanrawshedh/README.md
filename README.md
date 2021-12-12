@@ -83,4 +83,5 @@
 | 22.  |  useState() Hook | [useState() Hook](https://marwanrawshedh.github.io/readingnotes/read-401-27) |
 | 23.  |  Component Lifecycle / useEffect() Hook | [Component Lifecycle / useEffect() Hook](https://marwanrawshedh.github.io/readingnotes/read-401-28) |
 | 24.  | Advanced State with Reducers  | [Advanced State with Reducers](https://marwanrawshedh.github.io/readingnotes/read-401-29) |
-| 24.  |  Hashtables | [Hashtables](https://marwanrawshedh.github.io/readingnotes/read-401-30) |
+| 25.  |  Hashtables | [Hashtables](https://marwanrawshedh.github.io/readingnotes/read-401-30) |
+| 26.  |   Context API | [ Context API](https://marwanrawshedh.github.io/readingnotes/read-401-31) |
