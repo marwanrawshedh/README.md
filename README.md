@@ -85,5 +85,5 @@
 | 24.  | Advanced State with Reducers  | [Advanced State with Reducers](https://marwanrawshedh.github.io/readingnotes/read-401-29) |
 | 25.  |  Hashtables | [Hashtables](https://marwanrawshedh.github.io/readingnotes/read-401-30) |
 | 26.  |   Context API | [ Context API](https://marwanrawshedh.github.io/readingnotes/read-401-31) |
-| 27.  |   `<Login /> and <Auth />` | [ <Login /> and <Auth />](https://marwanrawshedh.github.io/readingnotes/read-401-32) |
+| 27.  |   Context API - Behaviors | [ Context API - Behaviors](https://marwanrawshedh.github.io/readingnotes/read-401-32) |
 | 28.  |   `<Login /> and <Auth />` | [ <Login /> and <Auth />](https://marwanrawshedh.github.io/readingnotes/read-401-33) |
