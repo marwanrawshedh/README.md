@@ -92,3 +92,4 @@
 | 31.  |  Application State with Redux | [ Application State with Redux](https://marwanrawshedh.github.io/readingnotes/read-401-36) |
 | 32.  |  Redux - Combined Reducers | [ Redux - Combined Reducers](https://marwanrawshedh.github.io/readingnotes/read-401-37) |
 | 33.  |   Redux - Asynchronous Actions | [  Redux - Asynchronous Actions](https://marwanrawshedh.github.io/readingnotes/read-401-38) |
+| 34.  |   Redux - Additional Topics | [  Redux - Additional Topics](https://marwanrawshedh.github.io/readingnotes/read-401-39) |
